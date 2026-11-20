@@ -1,0 +1,20 @@
+:root {
+  color-scheme: light;
+  --color-background: #f3eefc;
+  --color-lavender: #dcccf3;
+  --color-violet: #8062a8;
+  --color-white: #ffffff;
+  --color-ink: #51445f;
+  --color-pink: #eedfef;
+  --color-muted: #756a80;
+  --color-line: rgba(81, 68, 95, 0.14);
+  --color-violet-dark: #654a8a;
+  --shadow-soft: 0 18px 50px rgba(81, 68, 95, 0.09);
+  --shadow-card: 0 12px 32px rgba(81, 68, 95, 0.08);
+  --font-editorial: 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, serif;
+  --font-ui: 'Aptos', 'Segoe UI', sans-serif;
+  --content-width: 1160px;
+  --page-gutter: clamp(22px, 6vw, 88px);
+  --radius-card: 24px;
+  --radius-pill: 999px;
+}

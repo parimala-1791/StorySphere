@@ -1,0 +1,4 @@
+project_id = "story-sphere"
+
+[functions.admin-user-management]
+verify_jwt = true
